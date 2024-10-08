@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rizwan-hiroli/react-dms2/static/css/main.b1937dd2.css",
-    "main.js": "/rizwan-hiroli/react-dms2/static/js/main.7d8a67a8.js",
-    "static/js/453.0c490fd9.chunk.js": "/rizwan-hiroli/react-dms2/static/js/453.0c490fd9.chunk.js",
-    "static/media/sampleprofilepic.png": "/rizwan-hiroli/react-dms2/static/media/sampleprofilepic.5077bc52d3f0314d7c80.png",
-    "static/media/logo1.png": "/rizwan-hiroli/react-dms2/static/media/logo1.49623478abfe85fd1b9c.png",
-    "index.html": "/rizwan-hiroli/react-dms2/index.html",
-    "main.b1937dd2.css.map": "/rizwan-hiroli/react-dms2/static/css/main.b1937dd2.css.map",
-    "main.7d8a67a8.js.map": "/rizwan-hiroli/react-dms2/static/js/main.7d8a67a8.js.map",
-    "453.0c490fd9.chunk.js.map": "/rizwan-hiroli/react-dms2/static/js/453.0c490fd9.chunk.js.map"
+    "main.css": "/rizwan-hiroli/react-ems3/static/css/main.b1937dd2.css",
+    "main.js": "/rizwan-hiroli/react-ems3/static/js/main.9b21365d.js",
+    "static/js/453.0c490fd9.chunk.js": "/rizwan-hiroli/react-ems3/static/js/453.0c490fd9.chunk.js",
+    "static/media/sampleprofilepic.png": "/rizwan-hiroli/react-ems3/static/media/sampleprofilepic.5077bc52d3f0314d7c80.png",
+    "static/media/logo1.png": "/rizwan-hiroli/react-ems3/static/media/logo1.49623478abfe85fd1b9c.png",
+    "index.html": "/rizwan-hiroli/react-ems3/index.html",
+    "main.b1937dd2.css.map": "/rizwan-hiroli/react-ems3/static/css/main.b1937dd2.css.map",
+    "main.9b21365d.js.map": "/rizwan-hiroli/react-ems3/static/js/main.9b21365d.js.map",
+    "453.0c490fd9.chunk.js.map": "/rizwan-hiroli/react-ems3/static/js/453.0c490fd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1937dd2.css",
-    "static/js/main.7d8a67a8.js"
+    "static/js/main.9b21365d.js"
   ]
 }
